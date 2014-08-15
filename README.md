@@ -1,32 +1,15 @@
-## name of project
+## Browser Games
 ### Code Badges
-build status icon
-coverage status icon
+Badges??!? We don't need no stinkin badges.
 
 ### About
-write a description about your project
-
-### Models
-```
-Model 1
-prop-a
-prop-b
-.classMethod-c
-#instanceMethod-d
-```
-
-```
-Model 2
-prop-e
-prop-f
-.classMethod-g
-#instanceMethod-h
-```
+A simple application demonstrating useing AJAX and jQuery
 
 ### Features
-- feature 1
-- feature 2
-- feature 3
+- AJAX
+- jQuery
+- Node
+- Express
 
 ### Running Tests
 ```bash
@@ -35,7 +18,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Adam Barnhard](https://github.com/abarnhard)
 
 ### License
 [MIT](LICENSE)
