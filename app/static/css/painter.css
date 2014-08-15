@@ -48,3 +48,14 @@ nav li {
   margin: 10px;
   border: 1px solid black;
 }
+
+#canvas {
+  font-size: 0;
+}
+
+.pixel {
+  display: inline-block;
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+}
