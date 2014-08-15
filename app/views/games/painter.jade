@@ -1,0 +1,17 @@
+extends ../shared/template
+block stylesheets
+  link(rel='stylesheet', href='/css/reset.css')
+  link(rel='stylesheet', href='/css/painter.css')
+
+block content
+  #painter
+    h2 Painter
+    #controls
+      input(type='color', value='#FFFFFF')
+      button Add Color
+    #colors
+      #selected
+
+block scripts
+  script(src='/js/user/painter.js')
+

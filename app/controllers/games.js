@@ -8,3 +8,7 @@ exports.pacman = function(req, res){
   res.render('games/pacman');
 };
 
+exports.painter = function(req, res){
+  res.render('games/painter');
+};
+
